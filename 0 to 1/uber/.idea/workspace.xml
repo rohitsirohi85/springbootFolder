@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09914c2e-5b1f-435f-9478-02b543dfe06c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/HomeworkSpringDataJpaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/controllers/AdmissionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/controllers/ProfessorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/controllers/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/controllers/SubjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/entities/AdmissionRecordEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/entities/ProfessorEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/entities/StudentEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/entities/SubjectEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/repo/AdmissionRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/repo/ProfessorRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/repo/StudentRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/repo/SubjectRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/services/AdmissionServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/services/ProfessorServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/services/StudentServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/java/com/Homework_Week3/HomeworkSpringDataJPA/services/SubjectServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-week3/06_HomeworkSpringDataJPA/src/test/java/com/Homework_Week3/HomeworkSpringDataJPA/HomeworkSpringDataJpaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uberApplication/uber/utils/GeometryUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/uberApplication/uber/utils/GeometryUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/DTO/RideDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/DTO/RideDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/DTO/RideRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/DTO/RideRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/entities/Ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/entities/Ride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/entities/RideRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/entities/RideRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/services/impl/DriverServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/services/impl/DriverServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/services/impl/RideServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/services/impl/RideServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/services/impl/RiderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uber_project/src/main/java/com/uberApplication/uber/services/impl/RiderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uber_project/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/uber_project/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/uber_project" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2xch7ecZB01bWl7nAMlAG58y4wf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09914c2e-5b1f-435f-9478-02b543dfe06c" name="Changes" comment="" />
+      <created>1748243104745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748243104745</updated>
+    </task>
+    <servers />
+  </component>
+</project>
