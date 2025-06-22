@@ -1,9 +1,6 @@
 package com.CorrencyConverter.CorrencyConverter.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -27,6 +24,10 @@ public class UserEntity implements UserDetails {  // 1. implement the user detai
     private String name;
     private String email;
     private String password;
+
+    // No cascade or orphanRemoval — manual control of session lifecycle
+    @OneToMany(mappedBy = "user")
+    private List<SessionEntity> sessions;
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
